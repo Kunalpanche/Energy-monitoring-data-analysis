@@ -3,13 +3,6 @@
 
 This project focuses on analyzing energy consumption data collected from various smart meters. The aim is to identify consumption patterns, detect anomalies, and develop tariff strategies that can optimize energy resource allocation and promote sustainability.
 
-## Table of Contents
-- [Overview](#overview)
-- [Files](#files)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Contributors](#contributors)
-
 ## Overview
 This project involves exploring energy consumption data to find patterns and make data-driven decisions that can help optimize energy usage. The analysis includes exploratory data analysis (EDA), anomaly detection, and visualization of the findings. The goal is to create insights that can assist in managing energy more efficiently.
 
